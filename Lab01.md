@@ -29,7 +29,8 @@ Having a world full of people who are filled with the urg for the better world c
 
 ## Part 4 Answers
 
-1. SSH command to sign in to your AWS instance:
+1. SSH command to sign in to your AWS instance: 
+      ssh -i labsuser.pem ubuntu@35.170.228.42
 
 ```
 **write command here so it will look fancy on GitHub**
@@ -37,7 +38,8 @@ Having a world full of people who are filled with the urg for the better world c
 
 ## Part 5 Answers
 
-1. Command to clone your GitHub repository:
+1. Command to clone your GitHub repository: 
+       git clone https://github.com/theprarthana08/labs-ceg-2350.git
 
 ```
 **write command here so it will look fancy on GitHub**
