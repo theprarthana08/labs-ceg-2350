@@ -1,4 +1,4 @@
-## Lab 03i
+## Lab 03
 
 - Name:Prarthana Neupane 
 - Email: neupane.18@wright.eu
