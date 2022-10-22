@@ -17,7 +17,7 @@
  1.9 Eject ISo file 
 
 
-2. ![Screenshot of VM settings](/images/system_config.png)
+2. ![Screenshot of VM settings](images/system_config.png)
 3. Steps to download an ISO: 
 For Mac M1 ARM ISO needs to be downloaded by going to the following link: 
 https://cdimage.ubuntu.com/jammy/daily-live/current/
@@ -31,7 +31,7 @@ https://cdimage.ubuntu.com/jammy/daily-live/current/
  6.2 Then we can click on the play button where it lists the VM
 7. Steps to use full screen mode: 
 On Mac we can click on the green full screen button to go on full screen mode.
-8. ![Screenshot of VM running](/images/main_screen.png)
+8. ![Screenshot of VM running](images/main_screen.png)
 
 ## Part 2 Answers 
 
