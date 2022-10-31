@@ -1,0 +1,9 @@
+Hello
+This is a body for 
+the original txt file. 
+
+This should be enough text for our purposes today
+
+added usingthe hard link
+
+adding another line using hardlink
