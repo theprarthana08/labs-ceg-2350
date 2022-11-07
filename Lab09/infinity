@@ -1,0 +1,6 @@
+# this is comment
+while :
+do
+  echo "Still GOING!" >> still-going.txt
+  sleep 15s
+done
