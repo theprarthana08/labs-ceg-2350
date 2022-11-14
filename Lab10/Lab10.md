@@ -1,7 +1,7 @@
 ## Lab 10
 
 - Name: Prarthana Neupane
-- Email:
+- Email: neupane.18@wright.edu
 
 ## Part 1 Answers
 
