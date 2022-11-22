@@ -1,0 +1,15 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+01:12:21.422350 IP ip-10-0-0-25 > bh-in-f147.1e100.net: ICMP echo request, id 4106, seq 1, length 64
+01:12:21.423967 IP bh-in-f147.1e100.net > ip-10-0-0-25: ICMP echo reply, id 4106, seq 1, length 64
+01:12:22.423676 IP ip-10-0-0-25 > bh-in-f147.1e100.net: ICMP echo request, id 4106, seq 2, length 64
+01:12:22.425337 IP bh-in-f147.1e100.net > ip-10-0-0-25: ICMP echo reply, id 4106, seq 2, length 64
+01:12:23.425525 IP ip-10-0-0-25 > bh-in-f147.1e100.net: ICMP echo request, id 4106, seq 3, length 64
+01:12:23.427175 IP bh-in-f147.1e100.net > ip-10-0-0-25: ICMP echo reply, id 4106, seq 3, length 64
+01:12:24.427362 IP ip-10-0-0-25 > bh-in-f147.1e100.net: ICMP echo request, id 4106, seq 4, length 64
+01:12:24.428995 IP bh-in-f147.1e100.net > ip-10-0-0-25: ICMP echo reply, id 4106, seq 4, length 64
+^C
+8 packets captured
+12 packets received by filter
+0 packets dropped by kernel
+
