@@ -2,4 +2,5 @@ this is new text
 
 This is sample text
 
-changes made 
+New changes to the file 
+
