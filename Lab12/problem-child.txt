@@ -1,3 +1,5 @@
+this is new text
 
+This is sample text
 
-This is sample text 
+changes made 
