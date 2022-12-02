@@ -36,12 +36,17 @@
 
 1. Translate to network prefixes + CIDR notation:
    - Sample: `10.0.0.0 - 10.0.1.255` = `10.0.0.0/23` OR `10.0.1.0/23`
-   - `130.108.0.0 - 130.108.255.255` =
-   - `10.0.0.0 - 10.0.0.255` =
-   - `your_public_ip - your_public_ip` =
-2. How you confirmed current rules are bad, and why are they bad.
+   - `130.108.0.0 - 130.108.255.255` = 255.255.255.0
+   - `10.0.0.0 - 10.0.0.255` =  255.255.255.252
+   - `your_public_ip - your_public_ip` = 255.255.255.252
+2. How you confirmed current rules are bad, and why are they bad. 
+	sudo iptables -L
+	right now the the system is set to accept all the incoming traffic which decreases our security on the system.
 3. Your implementation details and **screenshot**
+	sudo iptables -I INPUT -p tcp --dport 22 -j DROP
 4. Something invalid:
+	no we're unable to ssh into the the system
+	(screenshot.png)
 
 ## Extra Credit Answers:
 
