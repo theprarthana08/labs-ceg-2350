@@ -57,24 +57,44 @@ Following merge conflict arises because of variation in files
 Auto-merging Lab12/problem-child.txt
 CONFLICT (content): Merge conflict in Lab12/problem-child.txt
 Automatic merge failed; fix conflicts and then commit the result.
+
 2. Shows changes made to the file in improvements branch
+
 3. Removed the characters
+
 4. It says both files are modified
+
 5. 
 
 git branch improvements
+
 git checkout improvements
+
 vim problem-child.txt
+
 git add .
+
 git commit -m 'Message'
+
 git push
+
 git checkout master
+
 vim problem-child.txt
+
 git add .
+
 git commit -m "message 2"
+
 git push
+
 git merge
+
 vim problem.txt
+
 git add .
+
 git commit -m "fixed message"
+
+
 git push
