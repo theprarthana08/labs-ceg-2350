@@ -46,7 +46,7 @@
 	sudo iptables -I INPUT -p tcp --dport 22 -j DROP
 4. Something invalid:
 	no we're unable to ssh into the the system
-	(screenshot.png)
+!	(screenshot.png)
 
 ## Extra Credit Answers:
 
